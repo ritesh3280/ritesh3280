@@ -43,13 +43,6 @@ Ray-Ban-based forensic analysis system using YOLOv11n with bounding-box delta fi
 
 ---
 
-## GitHub Activity
-<p align="center">
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=ritesh3280&theme=default" alt="GitHub streak stats" />
-</p>
-
----
-
 ## Contact
 - LinkedIn: https://www.linkedin.com/in/rthipparthi/
 - Portfolio: https://ritesh-thipparthi-portfolio.vercel.app/

@@ -3,12 +3,6 @@
   Software Engineer • AI/ML Developer • 7x Hackathon Winner
 </p>
 
-<p align="center">
-  <a href="https://github.com/Ritesh-Thipparthi">
-    <img src="https://komarev.com/ghpvc/?username=ritesh3280&style=flat-square&color=blue" alt="Profile Views"/>
-  </a>
-</p>
-
 ---
 
 ## About Me

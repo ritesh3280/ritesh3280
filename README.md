@@ -25,7 +25,7 @@
 Campus-wide makerspace management system with automated workflows, permissions, and analytics  
 
 **TaxDaddy**  
-Real-time voice-driven tax assistant with 500ms streaming pipeline, OCR, RAG, and fraud detection  
+Real-time voice-driven tax system with 500ms streaming pipeline, OCR, RAG, and fraud detection(approached by F500)  
 
 **FocusFlow**  
 EEG-based attention monitoring platform using HemiAttentionLSTM and WebSockets  
@@ -33,15 +33,12 @@ EEG-based attention monitoring platform using HemiAttentionLSTM and WebSockets
 **See With Me**  
 Ray-Ban-based forensic analysis system using YOLOv11n with bounding-box delta filtering  
 
-**Resume Screening System**  
-End-to-end ML pipeline ranking 150+ applicants per cycle for AI/ML Club recruitment  
-
 ---
 
 ## GitHub Activity
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Ritesh-Thipparthi&show_icons=true&theme=default" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Ritesh-Thipparthi&theme=default" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ritesh3280&show_icons=true&theme=default" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=ritesh3280&theme=default" />
 </p>
 
 ---

@@ -1,6 +1,6 @@
-<h1 align="center">Hi, I'm Ritesh 👋</h1>
+<h1 align="center">Hi, I'm Ritesh Thipparthi</h1>
 <p align="center">
-  <b>Software Engineer • AI/ML Developer • 7× Hackathon Winner</b>
+  Software Engineer • AI/ML Developer • Hackathon Builder
 </p>
 
 <p align="center">
@@ -11,44 +11,41 @@
 
 ---
 
-### 🚀 About Me  
-- 🎓 CS @ UMD • ML, CV, Deep Learning  
-- 🔬 STARAPTOR Lab — Renal Histopathology Research  
-- 🛠 Building **Pinpoint** @ Terrapin Works (3,000+ users)  
-- 🧠 Voice AI + Real-time systems enthusiast  
-- 🥇 7× Hackathon Winner (HackMIT, HackUMBC, HackPrinceton…)  
+## About Me
+- Computer Science student at the University of Maryland  
+- Working at Terrapin Works on Pinpoint, an API-first platform supporting 3,000+ users  
+- Researcher in the STARAPTOR Lab, focusing on renal histopathology and feature analysis  
+- Experienced in building real-time systems, voice agents, and applied ML projects  
+- Seven-time hackathon winner, with projects across AI, systems, and developer tools  
 
 ---
 
-### 🛠 Tech Stack  
-<p>
-  <img src="https://skillicons.dev/icons?i=python,typescript,react,nextjs,nodejs,fastapi,mongodb,postgres,solana,aws,docker,git,linux&perline=8" />
-</p>
+## Selected Projects
+**Pinpoint**  
+Campus-wide makerspace management system with automated workflows, permissions, and analytics  
+
+**TaxDaddy**  
+Real-time voice-driven tax assistant with 500ms streaming pipeline, OCR, RAG, and fraud detection  
+
+**FocusFlow**  
+EEG-based attention monitoring platform using HemiAttentionLSTM and WebSockets  
+
+**See With Me**  
+Ray-Ban-based forensic analysis system using YOLOv11n with bounding-box delta filtering  
+
+**Resume Screening System**  
+End-to-end ML pipeline ranking 150+ applicants per cycle for AI/ML Club recruitment  
 
 ---
 
-### 📈 GitHub Stats  
+## GitHub Activity
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Ritesh-Thipparthi&show_icons=true&theme=tokyonight" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Ritesh-Thipparthi&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Ritesh-Thipparthi&show_icons=true&theme=default" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Ritesh-Thipparthi&theme=default" />
 </p>
 
 ---
 
-### 🏆 Achievements  
-- 🚀 Built **TaxDaddy** — 500ms voice tax pipeline  
-- 🧠 Built **FocusFlow** — real-time EEG-based attention system  
-- 👁 Built **See With Me** — Ray-Ban AI forensic platform  
-- 🧾 Flow-based resume screener for AI/ML Club (150+ resumes/cycle)
-
----
-
-### 📫 Connect  
-<p>
-  <a href="https://www.linkedin.com/in/riteshthipparthi/">
-    <img src="https://skillicons.dev/icons?i=linkedin"/>
-  </a>
-  <a href="mailto:rthippar@umd.edu">
-    <img src="https://skillicons.dev/icons?i=gmail"/>
-  </a>
-</p>
+## Contact
+- LinkedIn: https://www.linkedin.com/in/riteshthipparthi  
+- Email: rthippar@umd.edu

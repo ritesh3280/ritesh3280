@@ -3,6 +3,20 @@
   Software Engineer • AI/ML Developer • 7x Hackathon Winner
 </p>
 
+<p align="center"><i>“Build things people actually use.”</i></p>
+
+<p align="center">
+  <a href="https://ritesh-thipparthi-portfolio.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/rthipparthi/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="https://drive.google.com/file/d/1jA_36BuWMWLDLUEIE1x8rhO_049RQA0J/view?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-View-blue?style=for-the-badge" alt="Resume" />
+  </a>
+</p>
+
 ---
 
 ## About Me
@@ -14,7 +28,7 @@
 
 ---
 
-## Selected Projects
+## Some Projects
 **Pinpoint**  
 Campus-wide makerspace management system with automated workflows, permissions, and analytics  
 
@@ -31,12 +45,16 @@ Ray-Ban-based forensic analysis system using YOLOv11n with bounding-box delta fi
 
 ## GitHub Activity
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ritesh3280&style=flat-square&color=blue" alt="Profile views" />
   <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=ritesh3280&theme=default" alt="GitHub streak stats" />
 </p>
 
 ---
 
 ## Contact
-- LinkedIn: https://www.linkedin.com/in/riteshthipparthi  
+- LinkedIn: https://www.linkedin.com/in/rthipparthi/
+- Portfolio: https://ritesh-thipparthi-portfolio.vercel.app/
 - Email: rthippar@umd.edu
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ritesh3280&style=flat-square&color=blue" alt="Profile views" />
+</p>
